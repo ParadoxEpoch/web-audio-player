@@ -1,0 +1,31 @@
+{
+  "name": "@paradoxepoch/web-audio-player",
+  "version": "1.0.0",
+  "description": "A straightforward audio player for browsers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradoxepoch/web-audio-player.git"
+  },
+  "keywords": [
+    "web",
+    "audio",
+    "media",
+    "sound",
+    "music",
+    "player",
+    "API",
+    "HTMLAudioElement"
+  ],
+  "author": "Tristan Gauci <tristan@gauci.xyz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paradoxepoch/web-audio-player/issues"
+  },
+  "homepage": "https://github.com/paradoxepoch/web-audio-player#readme"
+}
